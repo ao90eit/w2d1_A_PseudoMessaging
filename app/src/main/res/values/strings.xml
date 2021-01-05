@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">w2d1_A_PseudoMessaging</string>
+    <string name="type_hint">Type...</string>
+    <string name="title_person1">Person 1</string>
+    <string name="title_person2">Person 2</string>
+    <string name="send_button">Send</string>
+</resources>
